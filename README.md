@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=SSDihan&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=aktonay&style=for-the-badge)
 
 <!-- ================================================================================================================================================================ -->
 <!-- <div align="center">
@@ -28,46 +28,46 @@
 Things I use on a daily basis
 
 <p align="left">
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=pulse&svgfill=3776ab">
 </a>
-   <a href="https://github.com/SSDihan">
+   <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&svgfill=ff6f00">
   </a>
-   <a href="https://github.com/SSDihan">
+   <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pytorch&svgfill=ee4c2c">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pandas&svgfill=150458">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=numpy&svgfill=013243">
   </a>
- <a href="https://github.com/SSDihan">
+ <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&svgfill=f37626">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgfill=f25425">
   </a>
- <a href="https://github.com/SSDihan">
+ <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&svgfill=f25425">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=15d8fe">  
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
   </a>
-  <a href="https://github.com/SSDihan">
+  <a href="https://github.com/aktonay">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
 </p>
