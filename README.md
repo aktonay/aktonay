@@ -6,7 +6,7 @@
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
 -->
-<p align="center"> Profile Under Development (Open for Hiring)</p>
+
 <hr>
 <!-- ================================================================================================================================================================ -->
 
