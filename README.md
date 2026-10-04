@@ -1,80 +1,143 @@
 <div align="center">
 
-# Hi there, I'm Mohammad Asif Khan (Tonay) 👋
-### AI Developer · Agentic Systems Architect · Open Source Creator
+# MD Asif Khan Tonay 👋
+### AI Engineer | LLMs, RAG & Agentic AI | Computer Vision | MLOps
+**Software Engineer Level 1 at [Betopia Limited](https://betopialimited.com)** · Dhaka, Bangladesh
+
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-asif-khan-tonay-795b641b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aktonay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.researchgate.net/profile/Mohammad-Asif-Khan-Tonay"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
   <a href="mailto:aktonay63@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.sparktech.agency/"><img src="https://img.shields.io/badge/Portfolio%20%2F%20Agency-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="SparkTech Agency" /></a>
+  <a href="https://wa.me/8801829312850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://pypi.org/user/aktonay/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+autonomous+AI+agents+and+developer+tools...;Architecting+sub-50ms+local+decision+engines...;Passionate+about+MCP,+SLMs,+and+Deep+Learning...;Let's+build+the+future+of+AI+together!&center=true&width=620&height=45&color=38BDF8&size=19&font=Fira+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+LLM+agents+%26+RAG+systems...;Architecting+high-precision+Computer+Vision+pipelines...;Creator+of+snapdec+(MCP+Decision+Layer+for+Coding+Agents)...;NASA+Space+Apps+Galactic+Problem+Solver...;Always+engineering+the+frontier+of+AI!&center=true&width=650&height=45&color=38BDF8&size=19&font=Fira+Code" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Professional Profile
 
-- 🔭 **Currently building**: **[snapdec](https://github.com/aktonay/snapdec)** — Fast, calibrated micro-decisions for AI coding agents via Model Context Protocol (MCP) & Agent Skills. Available on [PyPI](https://pypi.org/project/snapdec/).
-- 💼 **Company**: AI Developer & Lead at **[SparkTech Agency](https://www.sparktech.agency/)**.
-- 🧠 **Core Focus**: Autonomous AI Agents, Model Context Protocol (MCP), LLM Routing & Optimization, Computer Vision, and RAG architectures.
-- ⚡ **Philosophy**: Offload repetitive reasoning to specialized small models (SLMs), optimize tokens, and build rock-solid fail-closed systems.
-- 💬 **Ask me about**: Agentic workflows, PyTorch, Fast inference, LangChain, MCP tools, and scalable AI infrastructure.
-- 📍 **Location**: Bangladesh.
+AI Engineer with proven experience designing, developing, and deploying **production-grade enterprise AI systems**, autonomous **LLM-powered agents**, **computer vision solutions**, and scalable **MLOps pipelines**.
 
----
-
-### 🌟 Featured Flagship Project
-
-<div align="center">
-
-| ⚡ **[snapdec](https://github.com/aktonay/snapdec)** — *Snap Decisions for Coding Agents* |
-|:---|
-| [![PyPI Version](https://img.shields.io/pypi/v/snapdec.svg?color=blue&style=flat-square)](https://pypi.org/project/snapdec/) [![MCP Registry Listed](https://img.shields.io/badge/MCP_Registry-listed-4a90d9?style=flat-square&logo=anthropic)](https://registry.modelcontextprotocol.io/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://github.com/aktonay/snapdec/blob/main/LICENSE) |
-| Offloads high-volume categorical decisions (classify, check, score, rank) from expensive frontier LLMs to **sub-50ms local models** or fast routers. Auto-configures into **Claude Code, Cursor, Windsurf, VS Code, Cline**, and more. |
-
-</div>
+- 🏢 **Current Role**: Software Engineer Level 1 at **[Betopia Limited](https://betopialimited.com)**.
+- 🎓 **Education**:
+  - **Professional Masters in Computer Science** — *Jahangirnagar University* (May 2026 – Present)
+  - **B.Sc. in Computer Science and Engineering** — *East West University* (May 2020 – Dec 2024)
+- 🏆 **Awards**:
+  - **Galactic Problem Solver** — *NASA International Space Apps Challenge (Oct 2024)*
+  - **Anthropic Partnership: Learn Claude** — *Anthropic (June 2026)*
+- 🌐 **Languages**: Bengali (Native) · English (Fluent)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Selected Production & Open Source Systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/aktonay/snapdec">snapdec</a> (Open Source Flagship)</h4>
+      <p>
+        <a href="https://pypi.org/project/snapdec/"><img src="https://img.shields.io/pypi/v/snapdec.svg?color=blue&style=flat-square" alt="PyPI"></a>
+        <a href="https://registry.modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP_Registry-listed-4a90d9?style=flat-square&logo=anthropic" alt="MCP"></a>
+        <a href="https://github.com/aktonay/snapdec/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License"></a>
+      </p>
+      <p>Fast, calibrated micro-decisions for coding agents. Offloads high-volume choices from frontier LLMs to <b>sub-50ms local models</b> (Kev, Laya) via Model Context Protocol (MCP) and Agent Skills. Compatible with Claude Code, Cursor, Windsurf, VS Code, and Cline.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 <a href="https://sales.betopia.ai">Sales Desk — Intelligence Agent</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Enterprise-Betopia_Group-0052CC?style=flat-square" alt="Betopia">
+        <img src="https://img.shields.io/badge/Odoo-ERP_Integrated-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+      </p>
+      <p>Production enterprise sales intelligence agent on FastAPI featuring an LLM fallback chain (vLLM / self-hosted / GPT-4 / Claude Sonnet), RAG, tool calling, requirements extraction, automated quotation generation, and cross-profile intelligence for 500+ Fiverr profiles.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://betopialimited.com">Betopia AI Knowledge Chatbot</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Vector_DB-Qdrant_Hybrid-DC382D?style=flat-square" alt="Qdrant">
+        <img src="https://img.shields.io/badge/Security-2--Tier_RBAC-success?style=flat-square" alt="RBAC">
+      </p>
+      <p>Enterprise RAG chatbot with Qdrant hybrid search, self-hosted LLM, two-tier RBAC authenticated via Odoo SSO, source-linked answers, tiered fallback with human PSM handoff, and an administrative dashboard.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚚 <a href="https://flutter.akboria.com">AkBORIA SR — AI Field Service App</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Routing-OSRM_+_2--opt-FFA500?style=flat-square" alt="OSRM">
+        <img src="https://img.shields.io/badge/Protocol-JSON--RPC-blue?style=flat-square" alt="JSON-RPC">
+      </p>
+      <p>AI service app for distribution logistics with real-time Odoo synchronization, a nightly 6-parameter shop-priority scoring model, and route optimization engine (OSRM + Nearest-Neighbour, 2-opt, Or-opt) with Bengali localization.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔬 Peer-Reviewed Research Publications
+
+- 📄 **IEEE IT 2025**: *Laryngeal Cancer Detection and Classification Using Deep Learning on Histopathological Images*  
+  *29th International Conference on Information Technology* · [doi:10.1109/IT64745.2025.10930285](https://doi.org/10.1109/IT64745.2025.10930285)
+- 📄 **Springer Nature (2024)**: *Automated Laryngeal Cancer Detection Using Endoscopy Images with Deep Learning*  
+  *Data Mining and Information Security, Vol. 2, pp. 361–380* · [doi:10.1007/978-981-96-6053-7_24](https://doi.org/10.1007/978-981-96-6053-7_24)
+- 📄 **Springer Nature (2024)**: *Enhanced Nano-Scale Material Property Prediction in Li-Ion Batteries with Stacked Ensemble ML Models*  
+  *Data Mining and Information Security, pp. 379–392* · [doi:10.1007/978-981-96-6046-9_24](https://doi.org/10.1007/978-981-96-6046-9_24)
+
+*View full research portfolio on [ResearchGate](https://www.researchgate.net/profile/Mohammad-Asif-Khan-Tonay).*
+
+---
+
+### 🛠️ Technical Arsenal
 
 <p align="center">
-  <b>Languages</b><br>
+  <b>LLMs, Generative AI & Agentic Systems</b><br>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-4A90D9?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architectures-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-5C3EE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model_Fine--Tuning-7C3AED?style=flat-square" />
+</p>
+
+<p align="center">
+  <b>Machine Learning, Deep Learning & Computer Vision</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR_%26_Doc_Intelligence-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-15B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>MLOps, Backend & Distributed Infrastructure</b><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant_(Vector_DB)-DC382D?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Core Languages</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI, Machine Learning & Agentic Systems</b><br>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-4A90D9?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend, Databases & Cloud</b><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -94,20 +157,21 @@
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Get In Touch
 
 <div align="center">
 
-Interested in collaborating on AI agents, developer tooling, or research? Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-asif-khan-tonay-795b641b6/)
-[![Email](https://img.shields.io/badge/Email-aktonay63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aktonay63@gmail.com)
-[![Website](https://img.shields.io/badge/Website-sparktech.agency-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sparktech.agency/)
-
-</div>
+Whether you're interested in AI agents, enterprise LLM architectures, research collaboration, or consulting:
 
 <br>
 
-<div align="center">
-  <sub>⚡ Designed with precision · Always learning, always building ⚡</sub>
+<a href="https://www.linkedin.com/in/aktonay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:aktonay63@gmail.com"><img src="https://img.shields.io/badge/Email-aktonay63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801829312850"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Mohammad-Asif-Khan-Tonay"><img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+
+<br><br>
+
+<sub>⚡ Built with precision · Software Engineer Level 1 @ Betopia Limited ⚡</sub>
+
 </div>
