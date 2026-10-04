@@ -142,17 +142,15 @@ AI Engineer with proven experience designing, developing, and deploying **produc
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Verified Engineering Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aktonay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktonay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://raw.githubusercontent.com/aktonay/aktonay/main/assets/real-stats.svg" alt="MD Asif Khan Tonay Verified Engineering Stats" width="100%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aktonay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktonay&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,jinja&langs_count=4" alt="Most Used Languages" height="165" />
 </div>
 
 ---
